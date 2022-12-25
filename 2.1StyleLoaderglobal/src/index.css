@@ -1,0 +1,6 @@
+:global(#header){
+    color:red;
+}
+:global(.button){
+    color:green;
+}
